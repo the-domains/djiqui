@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[iQui]]></title>
         <description><![CDATA[iQui]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/djiqui/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 07:58:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 08:06:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/djiqui/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined31e7a9bc-e600-45d5-9269-7883210e91c9/index.html</link>
+            <description><![CDATA[<p>Turn it up</p>]]></description>
+            <link>https://thegrid.ai/djiqui/31e7a9bc-e600-45d5-9269-7883210e91c9/index.html</link>
             <guid isPermaLink="false">31e7a9bc-e600-45d5-9269-7883210e91c9</guid>
-            <pubDate>Thu, 07 Apr 2016 07:58:40 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 08:05:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
